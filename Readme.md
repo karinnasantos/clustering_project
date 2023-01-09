@@ -6,7 +6,7 @@
 Este é um projeto fictício. Aqui eu segui as recomendações do curso de Clusterização com Linguagem Python, ministrado pelo Caio Avelino.
 
 # 1. Problema do negócio 
-A Análise da Personalidade do Cliente é uma análise detalhada dos clientes ideais de uma empresa. Ele ajuda uma empresa a entender melhor seus clientes e facilita a modificação de produtos de acordo com as necessidades, comportamentos e preocupações específicas de diferentes tipos de clientes. Aqui, em vez de gastar dinheiro para comercializar um novo produto para cada cliente no banco de dados da empresa, uma empresa pode analisar qual segmento de cliente tem maior probabilidade de comprar o produto e, então, comercializar o produto apenas naquele segmento específico.
+A Análise da Personalidade do Cliente é uma análise detalhada dos clientes ideais de uma empresa. Ela ajuda uma empresa a entender melhor seus clientes e facilita a modificação de produtos de acordo com as necessidades, comportamentos e preocupações específicas de diferentes tipos de clientes. Aqui, em vez de gastar dinheiro para comercializar um novo produto para cada cliente no banco de dados da empresa, uma empresa pode analisar qual segmento de cliente tem maior probabilidade de comprar o produto e, então, comercializar o produto apenas naquele segmento específico.
 
 # 2. Descrição dos dados
 Os dados para este projeto podem ser encontrados [na plataforma Kagle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). Abaixo seguem as definições para cada um dos atributos (feature):
